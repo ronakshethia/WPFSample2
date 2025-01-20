@@ -7,68 +7,12 @@
       "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\viewmodels\\viewmodals\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:viewmodels\\viewmodals\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\httpservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\httpservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\modalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\modalnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\onreturnnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\onreturnnavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\iparameternavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\iparameternavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\viewmodelrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\viewmodelrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\navigationstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\addviewmodelshostbuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:addviewmodelshostbuilderextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\customcontrols\\styles\\controlstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:customcontrols\\styles\\controlstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\customcontrols\\modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:customcontrols\\modal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\wpfapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:wpfapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\views\\modals\\searchmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:views\\modals\\searchmodal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|c:\\users\\admin\\source\\repos\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB96C793-B1E0-4329-A06D-CBF5AB52B0FB}|WpfApp2.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,220 +74,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SearchViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\ViewModels\\ViewModals\\SearchViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\ViewModals\\SearchViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\ViewModels\\ViewModals\\SearchViewModel.cs",
-              "RelativeToolTip": "ViewModels\\ViewModals\\SearchViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T13:07:12.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OnReturnNavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\OnReturnNavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\OnReturnNavigationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\OnReturnNavigationService.cs",
-              "RelativeToolTip": "Services\\OnReturnNavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:57:22.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModalNavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\ModalNavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\ModalNavigationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\ModalNavigationService.cs",
-              "RelativeToolTip": "Services\\ModalNavigationService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:12:49.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\ViewModels\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\DashboardViewModel.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\ViewModels\\DashboardViewModel.cs",
               "RelativeToolTip": "ViewModels\\DashboardViewModel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:47:27.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T14:22:24.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\NavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\NavigationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\NavigationService.cs",
-              "RelativeToolTip": "Services\\NavigationService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:46:19.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T14:19:58.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IParameterNavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\IParameterNavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\IParameterNavigationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\IParameterNavigationService.cs",
-              "RelativeToolTip": "Services\\IParameterNavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\HttpServices\\ApiService.cs",
+              "RelativeDocumentMoniker": "Services\\HttpServices\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\HttpServices\\ApiService.cs",
+              "RelativeToolTip": "Services\\HttpServices\\ApiService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:53:10.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ViewModelRouter.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\ViewModelRouter.cs",
-              "RelativeDocumentMoniker": "Services\\ViewModelRouter.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\ViewModelRouter.cs",
-              "RelativeToolTip": "Services\\ViewModelRouter.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:19:20.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavigationStore.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\NavigationStore.cs",
-              "RelativeDocumentMoniker": "Services\\NavigationStore.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\NavigationStore.cs",
-              "RelativeToolTip": "Services\\NavigationStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:46:18.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "INavigationService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\INavigationService.cs",
-              "RelativeDocumentMoniker": "Services\\INavigationService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Services\\INavigationService.cs",
-              "RelativeToolTip": "Services\\INavigationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T12:43:41.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-20T12:16:54.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-20T10:58:52.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "MainViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\MainViewModel.cs",
-              "RelativeToolTip": "MainViewModel.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:50:28.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddViewModelsHostBuilderExtention.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\AddViewModelsHostBuilderExtention.cs",
-              "RelativeDocumentMoniker": "AddViewModelsHostBuilderExtention.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\AddViewModelsHostBuilderExtention.cs",
-              "RelativeToolTip": "AddViewModelsHostBuilderExtention.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T10:47:43.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SearchModal.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Views\\Modals\\SearchModal.xaml",
-              "RelativeDocumentMoniker": "Views\\Modals\\SearchModal.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\Views\\Modals\\SearchModal.xaml",
-              "RelativeToolTip": "Views\\Modals\\SearchModal.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-20T10:55:49.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WpfApp2",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\WpfApp2.csproj",
-              "RelativeDocumentMoniker": "WpfApp2.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\WpfApp2.csproj",
-              "RelativeToolTip": "WpfApp2.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-20T10:59:47.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Modal.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\CustomControls\\Modal.cs",
-              "RelativeDocumentMoniker": "CustomControls\\Modal.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\CustomControls\\Modal.cs",
-              "RelativeToolTip": "CustomControls\\Modal.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T11:17:41.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ControlStyle.xaml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\CustomControls\\Styles\\ControlStyle.xaml",
-              "RelativeDocumentMoniker": "CustomControls\\Styles\\ControlStyle.xaml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\WpfApp2\\CustomControls\\Styles\\ControlStyle.xaml",
-              "RelativeToolTip": "CustomControls\\Styles\\ControlStyle.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-20T12:15:48.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T14:19:21.551Z"
             }
           ]
         },
